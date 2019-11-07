@@ -1,6 +1,9 @@
 # Exploratory Data Analysis & Data Cleaning on the DataSet HMEQ
 #### by Jonathan Edwin
 
+#### Purpose: To help people understand how to do Exploratory Data Analysis and Data Cleansing
+#### Dataset Source: Team Teaching Assistant of Data Mining and Business Intelligence Faculty of Computer Science University of Indonesia
+
 ##### The data set HMEQ reports characteristics and delinquency information for 5,960 home equity loans. A home equity loan is a loan where the obligor uses the equity of his or her home as the underlying collateral. The data set has the following characteristics:
 ###### . BAD: 1 = applicant defaulted on loan or seriously delinquent; 0 = applicant paid loan
 ###### . LOAN: Amount of the loan request
@@ -21,3 +24,5 @@
 ### - Handle Missing Value 
 ### - Create some visualisation to get insight
 ### - Change Categorical String Columns into Categorical Numerical Columns 
+
+# THANK YOU for your time to read this!! :)
